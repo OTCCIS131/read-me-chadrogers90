@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Chad Rogers   
+- My Date of Birth: 04/04/1990
+- My Computer of Choice: PC
+- My Favorite Movie: Star Wars Episode V: The Empire Strikes Back
